@@ -6,8 +6,6 @@ target 'CryptoCurrencyTestApp' do
   use_frameworks!
 
   # Pods for CryptoCurrencyTestApp
-
-  pod 'Alamofire'
   pod 'Charts'
   pod 'Starscream'
   pod 'Moya-ObjectMapper' 

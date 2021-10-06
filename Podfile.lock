@@ -1,5 +1,5 @@
 PODS:
-  - Alamofire (5.4.3)
+  - Alamofire (5.4.4)
   - Charts (3.6.0):
     - Charts/Core (= 3.6.0)
   - Charts/Core (3.6.0)
@@ -16,7 +16,6 @@ PODS:
   - Starscream (4.0.4)
 
 DEPENDENCIES:
-  - Alamofire
   - Charts
   - Moya-ObjectMapper
   - Starscream
@@ -31,13 +30,13 @@ SPEC REPOS:
     - Starscream
 
 SPEC CHECKSUMS:
-  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
   Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
   Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
   Moya-ObjectMapper: 967a99d9ea3aa9c93ddbe112aeca3667f53bfe93
   ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
   Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
 
-PODFILE CHECKSUM: 9805692ff36bba56eb2ced879c4383e7c84e0473
+PODFILE CHECKSUM: cafada84e8a948b2fd76d7c37eb9d1a5840ccd43
 
 COCOAPODS: 1.11.2
